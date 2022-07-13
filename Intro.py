@@ -27,12 +27,13 @@
 
 
 
-#python manage.py .... comand
+#python manage.py .... comand to run the project
 # to run server
-#django manage.py runserver
+#python manage.py runserver
 
 # to regsiter
 #by adding the app_name in settings.py file in installed list
+
 
 
 

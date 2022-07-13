@@ -1,0 +1,11 @@
+create project       combination of apps
+create app           which consists of featues
+register the app
+create the urls inside each folders
+include the urls into project urls
+create the templates folder
+register the template folder
+create the core folder inside the template
+create base.html inside core folder
+create block inside base.html
+block title should be unique

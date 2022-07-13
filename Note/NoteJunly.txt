@@ -1,0 +1,15 @@
+working om the dynamics path 
+DIR:[os.path.join(BASE_DIR,"template")]
+
+
+
+
+How to pass data from views to html?
+passing the argument from path function like:
+def home(request):
+    return render(request,course/home.html,{"name":"subin"})
+
+
+
+and retrive in html 
+

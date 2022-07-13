@@ -1,0 +1,24 @@
+to pass the message we can also assign the "context" variable.
+
+
+
+add core folder into templates called core
+and make the file called base.html
+
+Then {% extends 'core/base.html' %}
+
+
+block:
+{% block titke%} {% enblock title%}
+
+for exmaple we need to give the title for 
+
+
+
+
+
+create core folder inside templates folder
+create base.html file inside core folder
+Then {% extends 'core/base.html' %}
+{% block title%} {% enblock title%}
+

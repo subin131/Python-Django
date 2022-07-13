@@ -1,0 +1,20 @@
+render...: the processing of displaying the html
+
+parseInt: running the html code
+
+
+r is used to print raw string
+for exmaple:
+path[r"/home/subinsatyal/Python/Python-oop/Django/FIRSTPROJECT/manage.py"]
+
+
+
+create project
+create app
+register app
+create urls file in app folder
+register urls
+create template folder
+register the template 
+
+

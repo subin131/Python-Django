@@ -1,0 +1,22 @@
+#about the concepts
+app is reuseable components
+
+we need to install app to run the app into that project
+
+
+
+Model View Template(MVT)
+Model-store the data
+View-Logic (request and response)  (also the method) collection of function
+Template-store HTML (frontEnd)
+
+
+
+
+make the individual urls.py to 
+
+
+STEPS"
+create the app
+register the app
+create urls.py in every app of the project
