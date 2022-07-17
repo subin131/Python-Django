@@ -1,0 +1,24 @@
+ 
+ Filters narrow down the query results based on the given parameters.\
+
+ queryset is collection of columns and list is collection of the values.
+
+
+ to get the all data from the database:
+variable_name=ClassName.object.all()
+
+ filter the data or retrive speciic value
+ variable_name=ClassName.object.filter(filedName=value,........,........,.......)
+
+
+exclude the specfic data form database
+variable_name=ClassName.object.exclude(filedName=value,........,........,.......)
+
+
+
+
+
+use get to retrive the single data and throws error when there are multiple values
+filter for multiple values and doesnot throw error
+
+negetive indexing not used in django
